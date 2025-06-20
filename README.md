@@ -1,7 +1,6 @@
 # probandocositas
 
-probandoC
-ositas
+probandoCositas
 
 # Título principal
 ## Subtítulo
